@@ -1,0 +1,16 @@
+{
+  "comments": [
+    {
+      "username": "john_doe",
+      "category": "books",
+      "comment": "This is an amazing book! Highly recommended.",
+      "timestamp": "2025-01-15T14:35:00Z"
+    },
+    {
+      "username": "jane_doe",
+      "category": "books",
+      "comment": "I didn't enjoy this book as much, but the story was okay.",
+      "timestamp": "2025-01-15T15:00:00Z"
+    }
+  ]
+}
